@@ -33,7 +33,6 @@ Colors:
 - Body text - dark gray #6b747b
 ******************************************/
 
-
 /**************************/
 /*     General Styles     */
 /**************************/
@@ -523,8 +522,12 @@ input[type='checkbox'] {
 	border: none;
 	font-size: 1.25rem;
 }
-
-
+/*text box*/
+.text {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 /*****************/
 /*    Header     */
 /*****************/
@@ -787,6 +790,7 @@ input[type='checkbox'] {
 /********************/
 /*     Features     */
 /********************/
+
 .basic-4 {
 	padding-top: 4.5rem;
 	padding-bottom: 2.5rem;

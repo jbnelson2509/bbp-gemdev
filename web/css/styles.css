@@ -158,6 +158,28 @@ a:hover {
 	color: #026cfe;
 	text-decoration: none;
 }
+/*buttons2*/
+.btn-solid-lg2 {
+	display: inline-block;
+	padding: 1.5rem 2.5rem 1.5rem 2.5rem;
+	border: 1px solid #026cfe;
+	border-radius: 32px;
+	background-color: #026cfe;
+	color: #ffffff;
+	font-weight: 600;
+	font-size: 0.875rem;
+	line-height: 0;
+	text-decoration: none;
+	transition: all 0.2s;
+}
+
+.btn-solid-lg2:hover {
+	border: 1px solid #026cfe;
+	background-color: transparent;
+	color: #026cfe;
+	text-decoration: none;
+}
+/*buttons2*/
 
 .btn-solid-lg {
 	display: inline-block;
